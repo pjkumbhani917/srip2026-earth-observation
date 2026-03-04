@@ -1,7 +1,7 @@
 # SRIP 2026 — AI for Sustainability
 ## Earth Observation: Delhi-NCR Land Use Classification
 
-> **Disclosure:** I used Claude AI to understand specific concepts around rasterio patch extraction and torchvision transfer learning. All code was written, run, and verified by me on Kaggle with GPU T4.
+> **Disclosure:** I used Claude AI to understand specific concepts around rasterio patch extraction and torchvision transfer learning. All code was written by me with the assistance of claude ai , run, and verified by me on Kaggle with GPU T4.
 
 ---
 
